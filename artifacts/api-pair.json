@@ -1,0 +1,86 @@
+{
+  "kind": "Real public API readings via curl, about 20 seconds apart; not browser CORS verification",
+  "checkedAt": "2026-11-04T13:12:15.951Z",
+  "start": {
+    "distanceMm": 0,
+    "installationId": "stream-game-sepolia-test-20261025-01",
+    "counterEpoch": "c011f01a-93ba-45ff-8579-619ddfdf40ec",
+    "observedAt": "2026-11-04T13:11:50.442Z",
+    "generatedAt": "2026-11-04T13:11:55.376Z",
+    "freshness": "online",
+    "wheelStatus": "IDLE",
+    "provenance": "hardware",
+    "staleAfterSeconds": 120,
+    "round": {
+      "id": "1292",
+      "source": "oracle.latestClosure.lastRound",
+      "label": "Last closed round"
+    },
+    "roundReferences": [
+      {
+        "id": "1292",
+        "source": "oracle.latestClosure.lastRound",
+        "label": "Last closed round"
+      },
+      {
+        "id": "1291",
+        "source": "builder.anchor.settledThroughRound",
+        "label": "Last settled round"
+      },
+      {
+        "id": "1292",
+        "source": "settlementQueue.latestSubmission.settledThroughRound",
+        "label": "Last submitted round"
+      },
+      {
+        "id": "1292",
+        "source": "oracle.latestClosure.firstRound",
+        "label": "First round in latest closure"
+      }
+    ],
+    "receivedAt": "2026-11-04T13:11:55.606Z",
+    "problem": null
+  },
+  "end": {
+    "distanceMm": 0,
+    "installationId": "stream-game-sepolia-test-20261025-01",
+    "counterEpoch": "c011f01a-93ba-45ff-8579-619ddfdf40ec",
+    "observedAt": "2026-11-04T13:12:10.439Z",
+    "generatedAt": "2026-11-04T13:12:15.585Z",
+    "freshness": "online",
+    "wheelStatus": "IDLE",
+    "provenance": "hardware",
+    "staleAfterSeconds": 120,
+    "round": {
+      "id": "1292",
+      "source": "oracle.latestClosure.lastRound",
+      "label": "Last closed round"
+    },
+    "roundReferences": [
+      {
+        "id": "1292",
+        "source": "oracle.latestClosure.lastRound",
+        "label": "Last closed round"
+      },
+      {
+        "id": "1291",
+        "source": "builder.anchor.settledThroughRound",
+        "label": "Last settled round"
+      },
+      {
+        "id": "1292",
+        "source": "settlementQueue.latestSubmission.settledThroughRound",
+        "label": "Last submitted round"
+      },
+      {
+        "id": "1292",
+        "source": "oracle.latestClosure.firstRound",
+        "label": "First round in latest closure"
+      }
+    ],
+    "receivedAt": "2026-11-04T13:12:15.950Z",
+    "problem": null
+  },
+  "gainMm": 0,
+  "problem": null
+}

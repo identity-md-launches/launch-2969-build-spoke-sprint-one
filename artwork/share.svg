@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#14110e"/>
+  <path d="M70 92h1060M70 540h1060" stroke="#493c2f"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="69" fill="#a99a86" font-size="20">A Squeekchain community game</text>
+    <text x="65" y="226" fill="#f3ead7" font-size="96" font-weight="700" letter-spacing="-5">Spoke Sprint<tspan fill="#e4a15a">.</tspan></text>
+    <text x="70" y="298" fill="#a99a86" font-size="30">You against Squeektoshi’s real wheel.</text>
+    <text x="70" y="341" fill="#a99a86" font-size="30">Twenty seconds. Every roll counts.</text>
+    <rect x="70" y="396" width="380" height="78" rx="12" fill="#e4a15a"/>
+    <text x="112" y="446" fill="#14110e" font-size="28" font-weight="700">Roll to start</text>
+    <text x="380" y="449" fill="#14110e" font-size="36">→</text>
+    <text x="70" y="587" fill="#a99a86" font-size="20">1 step = 1 game-meter</text>
+    <text x="887" y="587" fill="#a99a86" font-size="20">20-second wheel race</text>
+  </g>
+  <g transform="translate(940 320)" fill="none" stroke="#e4a15a">
+    <circle r="154" stroke-width="4"/><circle r="136" stroke-width="2" opacity=".4"/>
+    <g stroke-width="2" opacity=".4"><path d="M0-135V135M-135 0H135M-95-95 95 95M95-95-95 95M-52-125 52 125M52-125-52 125M-125-52 125 52M-125 52 125-52"/></g>
+    <circle r="47" fill="#252019" stroke-width="2"/><path d="m5-29-27 33h18l-3 26 30-36H5z" fill="#e4a15a" stroke="none"/>
+    <path d="M-55 176h110M-29 176l18-22h22l18 22" stroke="#493c2f" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

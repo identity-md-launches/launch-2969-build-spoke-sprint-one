@@ -1,0 +1,40 @@
+{
+  "limitBytes": 8388608,
+  "deliveryFilesExcludingThisReport": 38,
+  "rawBytesExcludingThisReport": 908515,
+  "reportAllowanceBytes": 4096,
+  "conservativeTotalBytes": 912611,
+  "withinLimit": true,
+  "ignoreFileBytes": 238,
+  "ignoreFileBudgetBytes": 1024,
+  "exportBytes": 132434,
+  "exportFiles": [
+    {
+      "path": "dist/assets/index-BW_5KrsB.css",
+      "bytes": 14877,
+      "sha256": "9247305393a015cb3f2933994330fe99ac37c172da45c000b790fab6bc6b0fe7"
+    },
+    {
+      "path": "dist/assets/index-DqQXUBft.js",
+      "bytes": 29900,
+      "sha256": "d61d19bd31c9b6b71ab1c34b716fd5b929f36ca845d6239ee46d43579610b4a7"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 324,
+      "sha256": "fdda5993616158e6a6781b4a31501c6941ed356503331534fe970d78df70c482"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1405,
+      "sha256": "0651d7c1e4c2fea830137545861d9d9a32768d41852a7c97e46386ea440547bb"
+    },
+    {
+      "path": "dist/share.png",
+      "bytes": 85928,
+      "sha256": "40e8ae1669e194bacdfcab5c8211cd21b50b546b6ef7d5c24b0a54c43a48b5d9"
+    }
+  ],
+  "excluded": "Provided .imd inputs; protected metadata; generated dependencies/caches; test/scratch. No source or required runtime assets excluded.",
+  "checks": "Relative assets resolve, metadata share image is 1200x630, no dependency archives/source maps/symlinks/submodules, no fixture telemetry in production bundle."
+}

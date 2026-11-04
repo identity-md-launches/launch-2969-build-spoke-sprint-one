@@ -1,0 +1,13 @@
+# Ignore-file path budget: <= 1 KiB. dist/ is an intentional deliverable.
+!/dist/
+!/dist/**
+!/artifacts/
+!/artifacts/**
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/playwright-report/
+**/test-results/
+**/*.tsbuildinfo
+/test/scratch/

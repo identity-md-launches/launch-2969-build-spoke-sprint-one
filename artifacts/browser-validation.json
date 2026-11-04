@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-11-04T13:20:46.042Z",
+  "export": "dist/ served under /preview/",
+  "reports": [
+    {
+      "name": "320px layout, first-screen action, local assets and accessibility",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "390px layout, first-screen action, local assets and accessibility",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "704px layout, first-screen action, local assets and accessibility",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "1440px layout, first-screen action, local assets and accessibility",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "live: all three inputs, held Space suppression, exact two GETs, raw receipt, persistence and replay refusal",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: counter reset, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: changed epoch, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: changed installation, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: stale reading, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: offline telemetry, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: missing schema, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: opening HTTP failure, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "void: closing HTTP failure, no gain/winner, practice available, 320px receipt wraps",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "UTC-hour fallback is visible and used for storage",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "actual last-closed-round shape is labeled honestly",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "offline practice: fixed labeled gain, separate key, repeatable, no API requests",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "keyboard path, 2px focus, result focus, 200% text reflow at 390px",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "native browser timers: a real 20-second practice run finishes without script errors",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "storage denied: live fails closed and practice still completes",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "limitations": [
+    "WebKit could not launch because host libraries including GTK4 and GStreamer are missing. Native Safari/device verification not performed."
+  ]
+}

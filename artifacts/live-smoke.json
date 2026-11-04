@@ -1,0 +1,33 @@
+{
+  "kind": "Unmocked network smoke against the public status endpoint",
+  "checkedAt": "2026-11-04T13:16:59.089Z",
+  "statusRequests": 2,
+  "result": "Attempt void.",
+  "attempt": {
+    "version": 1,
+    "mode": "live",
+    "id": "0efd5ea0-76ff-40cf-9864-82bda302d5ab",
+    "key": "spoke-sprint:live:v1:hour:2026-11-04T13",
+    "startedAt": 1793798199077,
+    "finishedAt": 1793798219080,
+    "steps": 5,
+    "start": null,
+    "end": null,
+    "gainMm": null,
+    "winner": null,
+    "phase": "finished",
+    "reason": "Opening reading: The status request failed. Check your connection; the endpoint may also be unavailable.",
+    "valid": false
+  },
+  "networkFailures": [
+    {
+      "url": "https://api.squeekchain.com/v1/status",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    },
+    {
+      "url": "https://api.squeekchain.com/v1/status",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    }
+  ],
+  "scriptErrors": []
+}
